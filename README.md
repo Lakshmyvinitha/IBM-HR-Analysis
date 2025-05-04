@@ -1,1 +1,3 @@
-# IBM-HR-Analysis
+# IBM HR Analytics – Employee Attrition & Performance
+
+This project analyzes IBM's HR dataset to explore the factors influencing employee attrition and performance. Using Python tools such as Pandas, Seaborn, and Matplotlib, the dataset was cleaned and examined to identify patterns and correlations among various employee attributes like job role, satisfaction levels, income, and work-life balance. The analysis revealed that overtime, low job satisfaction, limited career growth, and lower income levels are major contributors to employee attrition. These insights can help organizations take data-driven decisions to enhance employee retention, job satisfaction, and organizational performance.
